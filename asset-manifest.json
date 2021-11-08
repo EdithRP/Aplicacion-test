@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/EdithRP/Aplicacion-test.git/static/js/main.1b3dac28.chunk.js",
+    "main.js.map": "/EdithRP/Aplicacion-test.git/static/js/main.1b3dac28.chunk.js.map",
+    "runtime-main.js": "/EdithRP/Aplicacion-test.git/static/js/runtime-main.663e2a98.js",
+    "runtime-main.js.map": "/EdithRP/Aplicacion-test.git/static/js/runtime-main.663e2a98.js.map",
+    "static/css/2.383c0125.chunk.css": "/EdithRP/Aplicacion-test.git/static/css/2.383c0125.chunk.css",
+    "static/js/2.811b1de0.chunk.js": "/EdithRP/Aplicacion-test.git/static/js/2.811b1de0.chunk.js",
+    "static/js/2.811b1de0.chunk.js.map": "/EdithRP/Aplicacion-test.git/static/js/2.811b1de0.chunk.js.map",
+    "index.html": "/EdithRP/Aplicacion-test.git/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/EdithRP/Aplicacion-test.git/static/css/2.383c0125.chunk.css.map",
+    "static/js/2.811b1de0.chunk.js.LICENSE.txt": "/EdithRP/Aplicacion-test.git/static/js/2.811b1de0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.663e2a98.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.811b1de0.chunk.js",
+    "static/js/main.1b3dac28.chunk.js"
+  ]
+}
